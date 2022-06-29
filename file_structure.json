@@ -173,7 +173,6 @@
             {"type":"file","name":"volume_ticks_hourly.json"},
             {"type":"file","name":"volume_ticks_minutely.json"}
         ]},
-        {"type":"file","name":"file_structure.json"},
         {"type":"file","name":"LICENSE"},
         {"type":"file","name":"pre-commit.sh"},
         {"type":"file","name":"README.md"},
